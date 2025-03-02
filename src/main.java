@@ -21,8 +21,8 @@ public class main {
 
                 } else {
 
-                    System.out.print("you did not enter the correct input");
-                    in.next();
+                    System.out.print("you did not enter the correct input\n");
+
                 }
 
             }
@@ -36,8 +36,8 @@ public class main {
 
                 } else {
 
-                    System.out.print("you did not enter the correct input");
-                    in.next();
+                    System.out.print("you did not enter the correct input\n");
+
                 }
 
 
